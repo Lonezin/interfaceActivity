@@ -1,0 +1,14 @@
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\bin\Debug\net8.0\PaymentCompany.exe
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\bin\Debug\net8.0\PaymentCompany.deps.json
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\bin\Debug\net8.0\PaymentCompany.runtimeconfig.json
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\bin\Debug\net8.0\PaymentCompany.dll
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\bin\Debug\net8.0\PaymentCompany.pdb
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\PaymentCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\PaymentCompany.AssemblyInfoInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\PaymentCompany.AssemblyInfo.cs
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\PaymentCompany.csproj.CoreCompileInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\PaymentCompany.dll
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\refint\PaymentCompany.dll
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\PaymentCompany.pdb
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\PaymentCompany.genruntimeconfig.cache
+C:\Users\lonez\Desktop\Garoto de programa\PaymentCompany\obj\Debug\net8.0\ref\PaymentCompany.dll

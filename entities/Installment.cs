@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace PaymentCompany
+namespace PaymentCompany.entities
 {
     public class Installment
     {
